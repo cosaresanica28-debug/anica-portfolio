@@ -1,0 +1,20 @@
+ANICA C. COSARES
+BS Information Technology
+Cavite State University – Tanza Campus
+
+PROFILE
+An Information Technology student interested in web development and programming.
+
+TECHNICAL SKILLS
+HTML, CSS, Java, XML
+Currently learning: ReactJS and Tailwind CSS
+
+PROJECTS / PRACTICE
+- Student E-Portfolio: personal portfolio website concept
+- Login System Practice: beginner Java input and validation exercise
+- Meal Suggestion Program: beginner Python console application
+- Sales Interface Wireframe: low-fidelity UI design exercise
+
+NOTE
+This is a starter CV template for the portfolio assignment. Update it with your verified contact details,
+education information, experience, and completed projects before submitting.
